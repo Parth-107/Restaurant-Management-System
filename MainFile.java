@@ -1,18 +1,5 @@
 
-/*
-	Project: Restaurant Management System
 
-	Memebers name: 
-		- Parth Shah 
-		- Mayank Patel
-
-	Oracle Account:
-		- ORA_pss114
-		- ORA_mtp114
-
-	Entire Databse created in: ORA_pss114 
-
-*/
 
 import java.sql.*;
 import java.io.*;
